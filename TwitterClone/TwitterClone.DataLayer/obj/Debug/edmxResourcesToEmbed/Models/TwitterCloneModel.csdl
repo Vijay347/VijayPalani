@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TwitterCloneModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Following">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FollowingId" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Person" Relationship="Self.FK_Following_Person" FromRole="Following" ToRole="Person" />
+    <NavigationProperty Name="Person1" Relationship="Self.FK_Following_Person1" FromRole="Following" ToRole="Person" />
+  </EntityType>
+  <EntityType Name="Person">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="FullName" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Joined" Type="DateTime" Nullable="false" Precision="3" />
+    <Property Name="Active" Type="Boolean" Nullable="false" />
+    <NavigationProperty Name="Followings" Relationship="Self.FK_Following_Person" FromRole="Person" ToRole="Following" />
+    <NavigationProperty Name="Followings1" Relationship="Self.FK_Following_Person1" FromRole="Person" ToRole="Following" />
+    <NavigationProperty Name="Tweets" Relationship="Self.FK_Tweet_Person" FromRole="Person" ToRole="Tweet" />
+  </EntityType>
+  <EntityType Name="Tweet">
+    <Key>
+      <PropertyRef Name="TweetId" />
+    </Key>
+    <Property Name="TweetId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="String" MaxLength="25" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Message" Type="String" MaxLength="140" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="CreatedDate" Type="DateTime" Nullable="false" Precision="3" />
+    <NavigationProperty Name="Person" Relationship="Self.FK_Tweet_Person" FromRole="Tweet" ToRole="Person" />
+  </EntityType>
+  <Association Name="FK_Following_Person">
+    <End Role="Person" Type="Self.Person" Multiplicity="1" />
+    <End Role="Following" Type="Self.Following" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Person">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Following">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Following_Person1">
+    <End Role="Person" Type="Self.Person" Multiplicity="1" />
+    <End Role="Following" Type="Self.Following" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Person">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Following">
+        <PropertyRef Name="FollowingId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Tweet_Person">
+    <End Role="Person" Type="Self.Person" Multiplicity="1" />
+    <End Role="Tweet" Type="Self.Tweet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Person">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="Tweet">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TwitterCloneEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Followings" EntityType="Self.Following" />
+    <EntitySet Name="People" EntityType="Self.Person" />
+    <EntitySet Name="Tweets" EntityType="Self.Tweet" />
+    <AssociationSet Name="FK_Following_Person" Association="Self.FK_Following_Person">
+      <End Role="Person" EntitySet="People" />
+      <End Role="Following" EntitySet="Followings" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Following_Person1" Association="Self.FK_Following_Person1">
+      <End Role="Person" EntitySet="People" />
+      <End Role="Following" EntitySet="Followings" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Tweet_Person" Association="Self.FK_Tweet_Person">
+      <End Role="Person" EntitySet="People" />
+      <End Role="Tweet" EntitySet="Tweets" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

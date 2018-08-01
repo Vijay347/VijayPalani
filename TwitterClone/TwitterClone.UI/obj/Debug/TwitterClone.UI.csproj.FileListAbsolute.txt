@@ -1,0 +1,489 @@
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\ApplicationInsights.config
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\TwitterClone.UI.dll.config
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\TwitterClone.UI.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\TwitterClone.UI.pdb
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\csc.exe
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\csc.exe.config
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\csc.rsp
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\csi.exe
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\csi.exe.config
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\csi.rsp
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.AppContext.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Console.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Diagnostics.Process.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.Compression.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.FileSystem.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.Pipes.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.AccessControl.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Claims.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Threading.Thread.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.ValueTuple.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.XPath.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\vbc.exe
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\vbc.exe.config
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\vbc.rsp
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\VBCSCompiler.exe
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Antlr3.Runtime.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.DependencyCollector.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.Web.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.WindowsServer.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Microsoft.ApplicationInsights.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Newtonsoft.Json.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\System.Web.Helpers.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\System.Web.Mvc.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\System.Web.Optimization.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\System.Web.Razor.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Deployment.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Razor.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\WebGrease.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\System.Web.Helpers.xml
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\System.Web.Mvc.xml
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\System.Web.Optimization.xml
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\System.Web.Razor.xml
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.xml
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Deployment.xml
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Razor.xml
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Newtonsoft.Json.xml
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Antlr3.Runtime.pdb
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.DependencyCollector.xml
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.WindowsServer.xml
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.Web.xml
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\obj\Debug\TwitterClone.UI.csprojAssemblyReference.cache
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\obj\Debug\TwitterClone.UI.csproj.CoreCompileInputs.cache
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\obj\Debug\TwitterClone.UI.csproj.CopyComplete
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\obj\Debug\TwitterClone.UI.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\obj\Debug\TwitterClone.UI.pdb
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\TwitterClone.BusinessLayer.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\TwitterClone.DataLayer.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\EntityFramework.dll
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\TwitterClone.BusinessLayer.pdb
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\TwitterClone.BusinessLayer.dll.config
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\TwitterClone.DataLayer.pdb
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\TwitterClone.DataLayer.dll.config
+D:\CTS\Batch5\EF\TwitterClone\TwitterClone.UI\bin\EntityFramework.xml
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.FileSystem.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.ValueTuple.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\VBCSCompiler.exe
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\obj\Debug\TwitterClone.UI.csprojResolveAssemblyReference.cache
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\ApplicationInsights.config
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\TwitterClone.UI.dll.config
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\TwitterClone.UI.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\TwitterClone.UI.pdb
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\csc.exe
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\csc.exe.config
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\csc.rsp
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\csi.exe
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\csi.exe.config
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\csi.rsp
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.AppContext.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Console.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Diagnostics.Process.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.Compression.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.Pipes.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.AccessControl.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Claims.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Threading.Thread.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.XPath.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\vbc.exe
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\vbc.exe.config
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\vbc.rsp
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Antlr3.Runtime.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.DependencyCollector.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.Web.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.WindowsServer.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.ApplicationInsights.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Newtonsoft.Json.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.Helpers.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.Mvc.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.Optimization.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.Razor.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Deployment.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Razor.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\TwitterClone.BusinessLayer.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\TwitterClone.DataLayer.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\WebGrease.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\EntityFramework.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.Helpers.xml
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.Mvc.xml
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.Optimization.xml
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.Razor.xml
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.xml
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Deployment.xml
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Razor.xml
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Newtonsoft.Json.xml
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\TwitterClone.BusinessLayer.pdb
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\TwitterClone.DataLayer.pdb
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Antlr3.Runtime.pdb
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.DependencyCollector.xml
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.WindowsServer.xml
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.Web.xml
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\bin\EntityFramework.xml
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\obj\Debug\TwitterClone.UI.dll
+D:\FSD\Santhosh\TwitterClone\TwitterClone\TwitterClone.UI\obj\Debug\TwitterClone.UI.pdb
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.FileSystem.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.ValueTuple.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\VBCSCompiler.exe
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\ApplicationInsights.config
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\TwitterClone.UI.dll.config
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\TwitterClone.UI.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\TwitterClone.UI.pdb
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\csc.exe
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\csc.exe.config
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\csc.rsp
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\csi.exe
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\csi.exe.config
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\csi.rsp
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.AppContext.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Console.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Diagnostics.Process.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.Compression.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.Pipes.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.AccessControl.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Claims.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Threading.Thread.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.XPath.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\vbc.exe
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\vbc.exe.config
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\vbc.rsp
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Antlr3.Runtime.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.Web.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.WindowsServer.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.ApplicationInsights.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Newtonsoft.Json.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.Helpers.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.Mvc.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.Optimization.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.Razor.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Deployment.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Razor.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\TwitterClone.BusinessLayer.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\TwitterClone.DataLayer.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\WebGrease.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\EntityFramework.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.Helpers.xml
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.Mvc.xml
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.Optimization.xml
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.Razor.xml
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.xml
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Deployment.xml
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Razor.xml
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Newtonsoft.Json.xml
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\TwitterClone.BusinessLayer.pdb
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\TwitterClone.DataLayer.pdb
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Antlr3.Runtime.pdb
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.WindowsServer.xml
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.Web.xml
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\bin\EntityFramework.xml
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\obj\Debug\TwitterClone.UI.csprojResolveAssemblyReference.cache
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\obj\Debug\TwitterClone.UI.dll
+D:\Raj\FSD\Assignment Output\TwitterClone\TwitterClone\TwitterClone.UI\obj\Debug\TwitterClone.UI.pdb
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\ApplicationInsights.config
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\TwitterClone.UI.dll.config
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\TwitterClone.UI.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\TwitterClone.UI.pdb
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\csc.exe
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\csc.exe.config
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\csc.rsp
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\csi.exe
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\csi.exe.config
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\csi.rsp
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.AppContext.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Console.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Claims.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Threading.Thread.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\vbc.exe
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\vbc.exe.config
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\vbc.rsp
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Antlr3.Runtime.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.Web.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Microsoft.ApplicationInsights.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Newtonsoft.Json.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\System.Web.Helpers.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\System.Web.Mvc.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\System.Web.Optimization.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\System.Web.Razor.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Razor.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\TwitterClone.BusinessLayer.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\TwitterClone.DataLayer.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\WebGrease.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\EntityFramework.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\System.Web.Helpers.xml
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\System.Web.Mvc.xml
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\System.Web.Optimization.xml
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\System.Web.Razor.xml
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.xml
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Razor.xml
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Newtonsoft.Json.xml
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\TwitterClone.BusinessLayer.pdb
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\TwitterClone.DataLayer.pdb
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Antlr3.Runtime.pdb
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.Web.xml
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\bin\EntityFramework.xml
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\obj\Debug\TwitterClone.UI.csprojResolveAssemblyReference.cache
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\obj\Debug\TwitterClone.UI.dll
+C:\Users\484947\Source\Repos\FSD2\TwitterClone\TwitterClone.UI\obj\Debug\TwitterClone.UI.pdb
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\ApplicationInsights.config
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\TwitterClone.UI.dll.config
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\TwitterClone.UI.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\TwitterClone.UI.pdb
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\csc.exe
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\csc.exe.config
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\csc.rsp
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\csi.exe
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\csi.exe.config
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\csi.rsp
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.AppContext.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Console.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Diagnostics.Process.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.Compression.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.FileSystem.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.IO.Pipes.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.AccessControl.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Claims.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Threading.Thread.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.ValueTuple.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.XPath.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\vbc.exe
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\vbc.exe.config
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\vbc.rsp
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\VBCSCompiler.exe
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Antlr3.Runtime.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.DependencyCollector.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.Web.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.WindowsServer.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Microsoft.ApplicationInsights.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Newtonsoft.Json.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\System.Web.Helpers.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\System.Web.Mvc.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\System.Web.Optimization.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\System.Web.Razor.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Deployment.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Razor.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\TwitterClone.BusinessLayer.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\TwitterClone.DataLayer.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\WebGrease.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\EntityFramework.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\System.Web.Helpers.xml
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\System.Web.Mvc.xml
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\System.Web.Optimization.xml
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\System.Web.Razor.xml
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.xml
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Deployment.xml
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\System.Web.WebPages.Razor.xml
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Newtonsoft.Json.xml
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\TwitterClone.BusinessLayer.pdb
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\TwitterClone.DataLayer.pdb
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Antlr3.Runtime.pdb
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.DependencyCollector.xml
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.WindowsServer.xml
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Microsoft.AI.Web.xml
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\bin\EntityFramework.xml
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\obj\Debug\TwitterClone.UI.csprojResolveAssemblyReference.cache
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\obj\Debug\TwitterClone.UI.dll
+D:\Full back up\Vijay\FSD\Projects\20_MVC_Assignment_1_Dotnet_584684_Vijayakumar Palani\TwitterClone\TwitterClone.UI\obj\Debug\TwitterClone.UI.pdb
